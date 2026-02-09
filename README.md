@@ -50,13 +50,13 @@ pyautogui.FAILSAFE = True
 
 If something goes wrong, moving the mouse to the extreme top-left corner of your screen instantly kills the script.
 
-## **[!IMPORTANT]**
+## **!IMPORTANT!**
 
-## Coordinates depend on screen resolution and scaling.
+ Coordinates depend on screen resolution and scaling.
 
-## Keep browser size and zoom unchanged while running.
+ Keep browser size and zoom unchanged while running.
 
-## This tool does NOT bypass authentication or system rules — it only automates manual clicking.
+ This tool does NOT bypass authentication or system rules — it only automates manual clicking.
 
 ## 💡 Why I Built This
 Because sometimes engineering is not about building massive systems, but about making annoying problems disappear.
